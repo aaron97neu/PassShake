@@ -1,5 +1,13 @@
 Leap Motion Core Assets
 
+<<<<<<< HEAD
+These assets go along with our V3 Orion Beta.
+
+Before you begin:
+  You first need the Leap Motion V3 Orion Beta installed from:
+  https://developer.leapmotion.com/
+
+=======
 These assets go along with our V2 Skeletal Tracking. There are multiple
 customizable hands, a physical "RigidHand" and some useful gestures that
 interact with the physics engine like magnetic pinching. There are also 
@@ -53,6 +61,7 @@ Examples:
   There are plenty of examples using these assets available at:
   https://github.com/leapmotion-examples/
 
+>>>>>>> refs/remotes/origin/master
 Questions/Bugs/Feature Requests?
   Please post on https://community.leapmotion.com/c/development
 
