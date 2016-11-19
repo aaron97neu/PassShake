@@ -1,5 +1,9 @@
 /******************************************************************************\
+<<<<<<< HEAD
 * Copyright (C) Leap Motion, Inc. 2011-2016.                                   *
+=======
+* Copyright (C) Leap Motion, Inc. 2011-2014.                                   *
+>>>>>>> refs/remotes/origin/master
 * Leap Motion proprietary. Licensed under Apache 2.0                           *
 * Available at http://www.apache.org/licenses/LICENSE-2.0.html                 *
 \******************************************************************************/
@@ -8,7 +12,11 @@ using UnityEngine;
 using System.Collections;
 using Leap;
 
+<<<<<<< HEAD
 namespace Leap.Unity {
+=======
+namespace Leap {
+>>>>>>> refs/remotes/origin/master
 
   public static class Utils {
 
@@ -29,6 +37,7 @@ namespace Leap.Unity {
       }
     }
 
+<<<<<<< HEAD
     /* Visual debugging utilities */
     public static void DrawCircle(Vector3 center, 
                            Vector3 normal, 
@@ -83,5 +92,7 @@ namespace Leap.Unity {
       }
     }
 
+=======
+>>>>>>> refs/remotes/origin/master
   }
 }
